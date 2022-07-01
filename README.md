@@ -11,7 +11,7 @@ Projeto realizado durante o curso de formação fullstack da Trybe que tem o obj
 
 ## Referência
 
- - [Repositório backend](https://github.com/ApiExplorer-br/ApiExplorer-api)
+ - [Repositório backend](https://github.com/thiagodanobrega/api-explorer-back)
 #
 ## Variáveis de Ambiente
 
@@ -75,5 +75,5 @@ Inicie o servidor
 
 - [@Laecio](https://github.com/Laecio12)
 - [@Paolo](https://github.com/paolofullone)
-- [@Tiago](https://github.com/thiagodanobrega)
+- [@Thiago](https://github.com/thiagodanobrega)
 
